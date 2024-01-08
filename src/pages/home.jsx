@@ -4,7 +4,7 @@ import Chat from "../components/chat";
 
 const Home = () => {
     return (
-        <div className="bg-blue-500 h-screen flex items-center justify-center">
+        <div className="bg-sky-400 h-screen flex items-center justify-center">
             <div className="rounded-xl container-home">
                 <SideBar />
                 <Chat />

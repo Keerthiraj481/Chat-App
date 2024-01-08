@@ -1,10 +1,10 @@
-import { useState } from 'react'
-import './App.css'
-import Home from "./pages/home";
+import { useState } from 'react';
+import "./style.scss";
+import Register from "./pages/register";
 
 function App() {
   return (
-    <Home />
+    <Register />
   )
 }
 
